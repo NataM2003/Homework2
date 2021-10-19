@@ -1,0 +1,13 @@
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.exe
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.deps.json
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.runtimeconfig.json
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.runtimeconfig.dev.json
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.dll
+D:\TNEU\Softserve\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.pdb
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.csproj.AssemblyReference.cache
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.AssemblyInfoInputs.cache
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.AssemblyInfo.cs
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.csproj.CoreCompileInputs.cache
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.dll
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.pdb
+D:\TNEU\Softserve\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.genruntimeconfig.cache
